@@ -1,0 +1,1 @@
+Esse é nosso primeiro repositório na turma do SENAI! Sejam bem vindos :D
